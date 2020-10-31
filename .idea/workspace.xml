@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3b79e58-dc31-4ef7-aa85-4a1841be2202" name="Default Changelist" comment="a" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="urlnomeadas" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
+  </component>
+  <component name="ProjectId" id="1hW0IsIZZs7GKqv9IbULfEEFwQw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pypro/base/static/js" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pypro/base/static/js" />
+      <recent name="$PROJECT_DIR$/pypro/base/static/css" />
+      <recent name="$PROJECT_DIR$/pypro/base/templates/base" />
+      <recent name="$PROJECT_DIR$/pypro/base" />
+      <recent name="$PROJECT_DIR$/contrib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_home.test_status_code">
+    <configuration name="Django" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="curso-django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="curso-django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/.venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_home.test_status_code" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="curso-django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pypro/base/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_home.test_status_code&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_home.test_title" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="curso-django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pypro/base/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_home.test_title&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_home.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="curso-django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pypro/base/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pypro/base/tests/test_home.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Django" />
+      <item itemvalue="Python tests.pytest for test_home.test_status_code" />
+      <item itemvalue="Python tests.pytest for test_home.test_title" />
+      <item itemvalue="Python tests.pytest in test_home.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in test_home.py" />
+        <item itemvalue="Python tests.pytest for test_home.test_title" />
+        <item itemvalue="Python tests.pytest for test_home.test_status_code" />
+        <item itemvalue="Python.Django" />
+        <item itemvalue="Python tests.pytest in test_home.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3b79e58-dc31-4ef7-aa85-4a1841be2202" name="Default Changelist" comment="" />
+      <created>1600111464259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600111464259</updated>
+    </task>
+    <task id="LOCAL-00001" summary="primeira">
+      <created>1600113531143</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600113531143</updated>
+    </task>
+    <task id="LOCAL-00002" summary="segunda">
+      <created>1600113746667</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600113746667</updated>
+    </task>
+    <task id="LOCAL-00003" summary="segunda">
+      <created>1600113889994</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600113889994</updated>
+    </task>
+    <task id="LOCAL-00004" summary="criados arquivos para deploy no heroku">
+      <created>1600114897434</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600114897434</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ola django">
+      <created>1600139322153</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600139322168</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ola djangoh">
+      <created>1600140360964</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600140360964</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ola djangoh">
+      <created>1600140531602</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600140531602</updated>
+    </task>
+    <task id="LOCAL-00008" summary="codecov">
+      <created>1600141208336</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600141208337</updated>
+    </task>
+    <task id="LOCAL-00009" summary="a">
+      <created>1600174457302</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600174457302</updated>
+    </task>
+    <task id="LOCAL-00010" summary=",">
+      <created>1600179602124</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600179602124</updated>
+    </task>
+    <task id="LOCAL-00011" summary="a">
+      <created>1600182587890</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600182587890</updated>
+    </task>
+    <task id="LOCAL-00012" summary="a">
+      <created>1600190552894</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1600190552894</updated>
+    </task>
+    <task id="LOCAL-00013" summary="a">
+      <created>1600202047743</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1600202047743</updated>
+    </task>
+    <task id="LOCAL-00014" summary="a">
+      <created>1600262617416</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1600262617416</updated>
+    </task>
+    <task id="LOCAL-00015" summary="a">
+      <created>1600263335725</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1600263335725</updated>
+    </task>
+    <task id="LOCAL-00016" summary="a">
+      <created>1600263408476</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1600263408476</updated>
+    </task>
+    <task id="LOCAL-00017" summary="a">
+      <created>1600264268373</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1600264268373</updated>
+    </task>
+    <task id="LOCAL-00018" summary="a">
+      <created>1600265616246</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1600265616246</updated>
+    </task>
+    <task id="LOCAL-00019" summary="a">
+      <created>1600267082819</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1600267082819</updated>
+    </task>
+    <task id="LOCAL-00020" summary="a">
+      <created>1600273542569</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1600273542569</updated>
+    </task>
+    <task id="LOCAL-00021" summary="a">
+      <created>1600273743720</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1600273743720</updated>
+    </task>
+    <task id="LOCAL-00022" summary="a">
+      <created>1600274607948</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1600274607948</updated>
+    </task>
+    <task id="LOCAL-00023" summary="a">
+      <created>1600276199059</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1600276199059</updated>
+    </task>
+    <task id="LOCAL-00024" summary="a">
+      <created>1600697518551</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1600697518551</updated>
+    </task>
+    <task id="LOCAL-00025" summary="a">
+      <created>1600698079195</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1600698079195</updated>
+    </task>
+    <task id="LOCAL-00026" summary="a">
+      <created>1600698657038</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1600698657038</updated>
+    </task>
+    <task id="LOCAL-00027" summary="a">
+      <created>1600699741761</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1600699741761</updated>
+    </task>
+    <task id="LOCAL-00028" summary="a">
+      <created>1600702223720</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1600702223720</updated>
+    </task>
+    <task id="LOCAL-00029" summary="a">
+      <created>1600704957058</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1600704957058</updated>
+    </task>
+    <task id="LOCAL-00030" summary="a">
+      <created>1600705118687</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1600705118687</updated>
+    </task>
+    <task id="LOCAL-00031" summary="a">
+      <created>1600705995415</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1600705995415</updated>
+    </task>
+    <task id="LOCAL-00032" summary="a">
+      <created>1600719403553</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1600719403553</updated>
+    </task>
+    <task id="LOCAL-00033" summary="a">
+      <created>1600721510909</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1600721510909</updated>
+    </task>
+    <task id="LOCAL-00034" summary="a">
+      <created>1601323330842</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1601323330842</updated>
+    </task>
+    <task id="LOCAL-00035" summary="a">
+      <created>1601324363076</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1601324363076</updated>
+    </task>
+    <task id="LOCAL-00036" summary="a">
+      <created>1601324432674</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1601324432674</updated>
+    </task>
+    <task id="LOCAL-00037" summary="a">
+      <created>1601333415642</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1601333415642</updated>
+    </task>
+    <task id="LOCAL-00038" summary="a">
+      <created>1601338327301</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1601338327301</updated>
+    </task>
+    <task id="LOCAL-00039" summary="a">
+      <created>1601338362206</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1601338362206</updated>
+    </task>
+    <task id="LOCAL-00040" summary="a">
+      <created>1604170426527</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1604170426527</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Merge remote-tracking branch 'origin/master' into urlnomeadas&#10;&#10;# Conflicts:&#10;#&#9;pypro/base/templates/base/home.html&#10;#&#9;pypro/base/tests/test_home.py&#10;#&#9;pypro/urls.py">
+      <created>1604170606570</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1604170606570</updated>
+    </task>
+    <task id="LOCAL-00042" summary="a">
+      <created>1604170736769</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1604170736769</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primeira" />
+    <MESSAGE value="segunda" />
+    <MESSAGE value="criados arquivos para deploy no heroku" />
+    <MESSAGE value="ola django" />
+    <MESSAGE value="ola djangoh" />
+    <MESSAGE value="codecov" />
+    <MESSAGE value="," />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master' into urlnomeadas&#10;&#10;# Conflicts:&#10;#&#9;pypro/base/templates/base/home.html&#10;#&#9;pypro/base/tests/test_home.py&#10;#&#9;pypro/urls.py" />
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="177" y="55" width="1084" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600138619161">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="177" y="55" width="1084" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1294.741@72.27.1294.741" timestamp="1600138619161" />
+    <state x="412" y="199" width="603" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600173137108">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="412" y="199" width="603" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1294.741@72.27.1294.741" timestamp="1600173137108" />
+    <state x="172" y="127" width="1094" height="541" key="DiffContextDialog" timestamp="1601337389191">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="172" y="127" width="1094" height="541" key="DiffContextDialog/72.27.1294.741@72.27.1294.741" timestamp="1601337389191" />
+    <state x="497" y="160" width="424" height="491" key="FileChooserDialogImpl" timestamp="1600138599745">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="497" y="160" width="424" height="491" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1600138599745" />
+    <state width="1271" height="172" key="GridCell.Tab.0.bottom" timestamp="1604170930732">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1271" height="172" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1604170930732" />
+    <state width="1271" height="172" key="GridCell.Tab.0.center" timestamp="1604170930731">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1271" height="172" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1604170930731" />
+    <state width="1271" height="172" key="GridCell.Tab.0.left" timestamp="1604170930731">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1271" height="172" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1604170930731" />
+    <state width="1271" height="172" key="GridCell.Tab.0.right" timestamp="1604170930731">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1271" height="172" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1604170930731" />
+    <state width="1271" height="215" key="GridCell.Tab.1.bottom" timestamp="1600190308376">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1271" height="215" key="GridCell.Tab.1.bottom/72.27.1294.741@72.27.1294.741" timestamp="1600190308376" />
+    <state width="1271" height="215" key="GridCell.Tab.1.center" timestamp="1600190308376">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1271" height="215" key="GridCell.Tab.1.center/72.27.1294.741@72.27.1294.741" timestamp="1600190308376" />
+    <state width="1271" height="215" key="GridCell.Tab.1.left" timestamp="1600190308376">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1271" height="215" key="GridCell.Tab.1.left/72.27.1294.741@72.27.1294.741" timestamp="1600190308376" />
+    <state width="1271" height="215" key="GridCell.Tab.1.right" timestamp="1600190308376">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1271" height="215" key="GridCell.Tab.1.right/72.27.1294.741@72.27.1294.741" timestamp="1600190308376" />
+    <state x="350" y="158" width="728" height="485" key="MultipleFileMergeDialog" timestamp="1604170534994">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="350" y="158" width="728" height="485" key="MultipleFileMergeDialog/72.27.1294.741@72.27.1294.741" timestamp="1604170534994" />
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1601320057475">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1601320057475" />
+    <state x="172" y="127" width="1094" height="541" key="ShowDiffWithBranchDialog" timestamp="1601337389191">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="172" y="127" width="1094" height="541" key="ShowDiffWithBranchDialog/72.27.1294.741@72.27.1294.741" timestamp="1601337389191" />
+    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1604170740714">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1294.741@72.27.1294.741" timestamp="1604170740714" />
+    <state width="647" height="370" key="XDebugger.FullValuePopup" timestamp="1600190224640">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="647" height="370" key="XDebugger.FullValuePopup/72.27.1294.741@72.27.1294.741" timestamp="1600190224640" />
+    <state x="434" y="240" width="569" height="321" key="git4idea.ui.GitTagDialog" timestamp="1600739272338">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="434" y="240" width="569" height="321" key="git4idea.ui.GitTagDialog/72.27.1294.741@72.27.1294.741" timestamp="1600739272338" />
+    <state x="382" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1601338012798">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="382" y="89" width="672" height="678" key="search.everywhere.popup/72.27.1294.741@72.27.1294.741" timestamp="1601338012798" />
+    <state x="444" y="289" width="540" height="223" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1600113018223">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="444" y="289" width="540" height="223" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/72.27.1294.741@72.27.1294.741" timestamp="1600113018223" />
+  </component>
+</project>
