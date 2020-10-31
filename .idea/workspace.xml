@@ -22,7 +22,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3b79e58-dc31-4ef7-aa85-4a1841be2202" name="Default Changelist" comment="a" />
+    <list default="true" id="d3b79e58-dc31-4ef7-aa85-4a1841be2202" name="Default Changelist" comment="a">
+      <change afterPath="$PROJECT_DIR$/pypro/base/static/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypro/base/static/img/fluminense.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pypro/base/templates/base/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/base/templates/base/home.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +43,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="urlnomeadas" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,16 +62,16 @@
   <component name="PropertiesComponent">
     <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pypro/base/static/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pypro/base/static/img" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pypro/base/static/img" />
       <recent name="$PROJECT_DIR$/pypro/base/static/js" />
       <recent name="$PROJECT_DIR$/pypro/base/static/css" />
       <recent name="$PROJECT_DIR$/pypro/base/templates/base" />
       <recent name="$PROJECT_DIR$/pypro/base" />
-      <recent name="$PROJECT_DIR$/contrib" />
     </key>
   </component>
   <component name="RunManager" selected="Python tests.pytest for test_home.test_status_code">
@@ -578,10 +583,14 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state width="1271" height="215" key="GridCell.Tab.1.right/72.27.1294.741@72.27.1294.741" timestamp="1600190308376" />
-    <state x="350" y="158" width="728" height="485" key="MultipleFileMergeDialog" timestamp="1604170534994">
+    <state x="192" y="90" width="1035" height="629" key="MergeDialog" timestamp="1604171226202">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="350" y="158" width="728" height="485" key="MultipleFileMergeDialog/72.27.1294.741@72.27.1294.741" timestamp="1604170534994" />
+    <state x="192" y="90" width="1035" height="629" key="MergeDialog/72.27.1294.741@72.27.1294.741" timestamp="1604171226202" />
+    <state x="350" y="158" width="728" height="485" key="MultipleFileMergeDialog" timestamp="1604171228930">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="350" y="158" width="728" height="485" key="MultipleFileMergeDialog/72.27.1294.741@72.27.1294.741" timestamp="1604171228930" />
     <state x="208" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1601320057475">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
