@@ -510,7 +510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604170736769</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1604175232221</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1604175232221</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -538,7 +545,8 @@
     <MESSAGE value="," />
     <MESSAGE value="Merge remote-tracking branch 'origin/master' into urlnomeadas&#10;&#10;# Conflicts:&#10;#&#9;pypro/base/templates/base/home.html&#10;#&#9;pypro/base/tests/test_home.py&#10;#&#9;pypro/urls.py" />
     <MESSAGE value="a" />
-    <option name="LAST_COMMIT_MESSAGE" value="a" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
   <component name="WindowStateProjectService">
     <state x="177" y="55" width="1084" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600138619161">
