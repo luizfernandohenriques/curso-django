@@ -16,15 +16,18 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:heroku" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3b79e58-dc31-4ef7-aa85-4a1841be2202" name="Default Changelist" comment="a">
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pypro/base/static/img/fluminense.png" afterDir="false" />
+    <list default="true" id="e5d15186-946a-4d0c-b4b5-5cc2be2cc562" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pypro/base/templates/base/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/base/templates/base/home.html" afterDir="false" />
     </list>
@@ -510,6 +513,9 @@
     <option name="localTasksCounter" value="43" />
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -611,10 +617,10 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="434" y="240" width="569" height="321" key="git4idea.ui.GitTagDialog/72.27.1294.741@72.27.1294.741" timestamp="1600739272338" />
-    <state x="382" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1601338012798">
+    <state x="382" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1604174275773">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="382" y="89" width="672" height="678" key="search.everywhere.popup/72.27.1294.741@72.27.1294.741" timestamp="1601338012798" />
+    <state x="382" y="89" width="672" height="678" key="search.everywhere.popup/72.27.1294.741@72.27.1294.741" timestamp="1604174275773" />
     <state x="444" y="289" width="540" height="223" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1600113018223">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
