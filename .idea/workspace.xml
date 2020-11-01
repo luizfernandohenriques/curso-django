@@ -28,8 +28,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5d15186-946a-4d0c-b4b5-5cc2be2cc562" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/pypro/aperitivos/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypro/aperitivos/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypro/aperitivos/templates/aperitivos/video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypro/aperitivos/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypro/aperitivos/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypro/aperitivos/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pypro/base/templates/base/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/base/templates/base/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pypro/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pypro/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +47,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="configurandobotaodepagamento" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,21 +71,22 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pypro/base/static/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pypro/aperitivos" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pypro/aperitivos" />
       <recent name="$PROJECT_DIR$/pypro/base/static/img" />
       <recent name="$PROJECT_DIR$/pypro/base/static/js" />
       <recent name="$PROJECT_DIR$/pypro/base/static/css" />
       <recent name="$PROJECT_DIR$/pypro/base/templates/base" />
-      <recent name="$PROJECT_DIR$/pypro/base" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_home.test_status_code">
+  <component name="RunManager" selected="Python tests.pytest in tests.py">
     <configuration name="Django" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="curso-django" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,19 +197,36 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest in tests.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="curso-django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pypro/aperitivos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pypro/aperitivos/tests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Django" />
       <item itemvalue="Python tests.pytest for test_home.test_status_code" />
       <item itemvalue="Python tests.pytest for test_home.test_title" />
       <item itemvalue="Python tests.pytest in test_home.py" />
+      <item itemvalue="Python tests.pytest in tests.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in tests.py" />
         <item itemvalue="Python tests.pytest in test_home.py" />
         <item itemvalue="Python tests.pytest for test_home.test_title" />
         <item itemvalue="Python tests.pytest for test_home.test_status_code" />
         <item itemvalue="Python.Django" />
-        <item itemvalue="Python tests.pytest in test_home.py" />
       </list>
     </recent_temporary>
   </component>
@@ -565,22 +591,22 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="497" y="160" width="424" height="491" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1600138599745" />
-    <state width="1271" height="172" key="GridCell.Tab.0.bottom" timestamp="1604170930732">
+    <state width="1271" height="172" key="GridCell.Tab.0.bottom" timestamp="1604262029997">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1271" height="172" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1604170930732" />
-    <state width="1271" height="172" key="GridCell.Tab.0.center" timestamp="1604170930731">
+    <state width="1271" height="172" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1604262029997" />
+    <state width="1271" height="172" key="GridCell.Tab.0.center" timestamp="1604262029995">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1271" height="172" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1604170930731" />
-    <state width="1271" height="172" key="GridCell.Tab.0.left" timestamp="1604170930731">
+    <state width="1271" height="172" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1604262029995" />
+    <state width="1271" height="172" key="GridCell.Tab.0.left" timestamp="1604262029994">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1271" height="172" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1604170930731" />
-    <state width="1271" height="172" key="GridCell.Tab.0.right" timestamp="1604170930731">
+    <state width="1271" height="172" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1604262029994" />
+    <state width="1271" height="172" key="GridCell.Tab.0.right" timestamp="1604262029996">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1271" height="172" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1604170930731" />
+    <state width="1271" height="172" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1604262029996" />
     <state width="1271" height="215" key="GridCell.Tab.1.bottom" timestamp="1600190308376">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
@@ -605,18 +631,18 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="350" y="158" width="728" height="485" key="MultipleFileMergeDialog/72.27.1294.741@72.27.1294.741" timestamp="1604171228930" />
-    <state x="208" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1601320057475">
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1604262262434">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="208" y="31" width="1022" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1601320057475" />
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1604262262434" />
     <state x="172" y="127" width="1094" height="541" key="ShowDiffWithBranchDialog" timestamp="1601337389191">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="172" y="127" width="1094" height="541" key="ShowDiffWithBranchDialog/72.27.1294.741@72.27.1294.741" timestamp="1601337389191" />
-    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1604170740714">
+    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1604183441250">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1294.741@72.27.1294.741" timestamp="1604170740714" />
+    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1294.741@72.27.1294.741" timestamp="1604183441250" />
     <state width="647" height="370" key="XDebugger.FullValuePopup" timestamp="1600190224640">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
