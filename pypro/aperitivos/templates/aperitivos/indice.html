@@ -1,0 +1,23 @@
+{% extends 'base/base.html'%}
+{% load static %}
+
+{% block title %}Luiz Fernando - Aperitivo{% endblock title %}
+{% block description %}Pagina com todos os vídeo{% endblock description %}
+{% block body %}
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+			<h1 class="mt-4 mb-3">Lista de vídeos</h1>
+			<ol>
+				{% for video in videos %}
+					<li>{{video.titulo | default:'Faltando Título'}}</li>
+				{% endfor %}
+				{% empty %}
+				<li>Não há nenhum vídeo</li>
+				{}
+			</ol>
+
+		</div>
+	</div>
+</div>
+{% endblock body %}
