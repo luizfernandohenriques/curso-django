@@ -27,13 +27,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5d15186-946a-4d0c-b4b5-5cc2be2cc562" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/pypro/base/templates/base/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pypro/aperitivos/templates/aperitivos/video.html" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/aperitivos/templates/aperitivos/video.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pypro/aperitivos/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/aperitivos/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pypro/base/templates/base/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/base/templates/base/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pypro/base/tests/test_home.py" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/base/tests/test_home.py" afterDir="false" />
+    <list default="true" id="e5d15186-946a-4d0c-b4b5-5cc2be2cc562" name="Default Changelist" comment="a">
+      <change beforePath="$PROJECT_DIR$/pypro/aperitivos/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pypro/aperitivos/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -547,7 +542,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604433421395</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="a">
+      <created>1604451219458</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1604451219458</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -574,10 +576,10 @@
     <MESSAGE value="codecov" />
     <MESSAGE value="," />
     <MESSAGE value="Merge remote-tracking branch 'origin/master' into urlnomeadas&#10;&#10;# Conflicts:&#10;#&#9;pypro/base/templates/base/home.html&#10;#&#9;pypro/base/tests/test_home.py&#10;#&#9;pypro/urls.py" />
-    <MESSAGE value="a" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="botao pagamento" />
-    <option name="LAST_COMMIT_MESSAGE" value="botao pagamento" />
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
   <component name="WindowStateProjectService">
     <state x="177" y="55" width="1084" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600138619161">
@@ -596,22 +598,22 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="497" y="160" width="424" height="491" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1600138599745" />
-    <state width="1271" height="171" key="GridCell.Tab.0.bottom" timestamp="1604446718964">
+    <state width="1271" height="171" key="GridCell.Tab.0.bottom" timestamp="1604453725583">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1271" height="171" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1604446718964" />
-    <state width="1271" height="171" key="GridCell.Tab.0.center" timestamp="1604446718964">
+    <state width="1271" height="171" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1604453725583" />
+    <state width="1271" height="171" key="GridCell.Tab.0.center" timestamp="1604453725583">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1271" height="171" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1604446718964" />
-    <state width="1271" height="171" key="GridCell.Tab.0.left" timestamp="1604446718964">
+    <state width="1271" height="171" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1604453725583" />
+    <state width="1271" height="171" key="GridCell.Tab.0.left" timestamp="1604453725582">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1271" height="171" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1604446718964" />
-    <state width="1271" height="171" key="GridCell.Tab.0.right" timestamp="1604446718964">
+    <state width="1271" height="171" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1604453725582" />
+    <state width="1271" height="171" key="GridCell.Tab.0.right" timestamp="1604453725583">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1271" height="171" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1604446718964" />
+    <state width="1271" height="171" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1604453725583" />
     <state width="1271" height="215" key="GridCell.Tab.1.bottom" timestamp="1600190308376">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
@@ -644,10 +646,10 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="172" y="127" width="1094" height="541" key="ShowDiffWithBranchDialog/72.27.1294.741@72.27.1294.741" timestamp="1601337389191" />
-    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1604183441250">
+    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1604451264584">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1294.741@72.27.1294.741" timestamp="1604183441250" />
+    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1294.741@72.27.1294.741" timestamp="1604451264584" />
     <state width="647" height="370" key="XDebugger.FullValuePopup" timestamp="1600190224640">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
